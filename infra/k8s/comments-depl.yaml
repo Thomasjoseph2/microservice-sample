@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: comments
-          image: rallycoding/comments-84
+          image: thomasjoseph1/comments
 ---
 apiVersion: v1
 kind: Service

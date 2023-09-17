@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: query
-          image: rallycoding/query-84
+          image: thomasjoseph1/query
 ---
 apiVersion: v1
 kind: Service
